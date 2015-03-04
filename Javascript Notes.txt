@@ -1,0 +1,17 @@
+Javascript Commands:
+
+console.log()					# Prints a string to the console
+var *variable = *value 			# Creates a variable and gives it a value
+[string].replace([old], [new]) 	# Find a pattern in a string and replace all or some matches
+
+
+
+JQuery:
+
+$("   ")		# This is the syntax for a JQuery selector. Grabs an element on the page
+.append() 		# Add HTML content to an element on the page	
+
+
+
+Concepts:
+-template html
